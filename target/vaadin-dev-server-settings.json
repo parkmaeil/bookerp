@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/sw/bookerp/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/sw/bookerp/./frontend/generated/jar-resources",
+  "staticOutput": "D:/sw/bookerp/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\sw\\bookerp\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\sw\\bookerp\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/sw/bookerp/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/sw/bookerp/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/sw/bookerp/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\sw\\bookerp\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
